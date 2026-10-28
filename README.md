@@ -78,3 +78,4 @@ Los reportes quedan como *artifacts* de cada ejecución (pestaña Actions) y el 
 - El paso Z1 restaura el estado del cadete a `LIBRE`; si el estado inicial era otro, ajustar Z1.
 - El mock reproduce lo descrito en el documento de casos; no reemplaza las pruebas contra la API real.
 # TAP_Sprint3_Grupo-5
+# TAP_Sprint3_Grupo_5
